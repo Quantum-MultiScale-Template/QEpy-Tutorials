@@ -1,2 +1,2 @@
 # QEpy-Tutorials
-Repo for QEpy tutorials
+Tutorials on QEpy for the Q-MS School
